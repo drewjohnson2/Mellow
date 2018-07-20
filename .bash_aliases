@@ -1,0 +1,6 @@
+alias clear="echo -ne '\033c'"
+alias ls="ls --color=auto"
+#alias neofetch="neofetch --w3m papes/bg3.jpg"
+alias cdcp="cd ~/Desktop/programming/cpp"
+alias cdjs="cd ~/Desktop/programming/javascript"
+alias coffee="ssh -i ~/Desktop/programming/javascript/WritingCoffee/writingcoffee.pem ubuntu@ec2-13-58-203-206.us-east-2.compute.amazonaws.com"
